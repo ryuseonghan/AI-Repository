@@ -16,7 +16,7 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 Video Lectures
 
 - [Convolutional Neural Networks for Visual Recognition (Stanford)](http://cs231n.stanford.edu/), Fei-Fei Li
- et al., 2017 [[Video]](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) 
+ et al., 2017 [[Video]](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [[Note]](http://cs231n.github.io/)
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd), Martin Görner, 2017
 - [Tensorflow for Deep Learning Research (Stanford)](http://web.stanford.edu/class/cs20si/index.html), Chip Huyen, 2017
 - [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
@@ -63,6 +63,7 @@ Reference
 
 Reviews & Tutorials
 
+- [Generative Adversarial Nets in TensorFlow](http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/), Agustinus Kristiadi, Personal Blog, 2016
 - [Collection of Generative Models (GAN & VAE) in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models), Agustinus Kristiadi, Github, 2016 
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks), Soumith Chintala et al.
 - [초짜 대학원생 입장에서 이해하는 GAN 시리즈](http://jaejunyoo.blogspot.com/search/label/GAN), Jaejun Yoo, Personal Blog, 2017
@@ -110,6 +111,17 @@ Papers
 - [Extracting and composing robust features with denoising autoencoders](https://www.iro.umontreal.ca/~vincentp/Publications/denoising_autoencoders_tr1316.pdf), Pascal Vincent et al., ICML, 2008 #DAE
 - [Greedy Layer-Wise Training of Deep Networks](http://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks.pdf), Bengio et al., NIPS, 2006 #SAE
 
+## Initialization
+
+- [Understanding the difficulty of training deep feedforward neural networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.207.2059&rep=rep1&type=pdf), Xavier Glorot et al., AISTATS, 2010
+
+## Activation Function
+
+- [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289), Djork-Arné Clevert et al., ICLR, 2016
+
+## Regularization
+
+- [A Theoretically Grounded Application of Dropout in Recurrent Neural Networks](https://arxiv.org/abs/1512.05287), Yarin Gal et al., NIPS, 2016
 
 ## Uncategorized
 
@@ -126,5 +138,6 @@ Reviews & Tutorials
 
 Papers
 
-- [A Theoretically Grounded Application of Dropout in Recurrent Neural Networks](https://arxiv.org/abs/1512.05287), Yarin Gal et al., NIPS 2016
+- [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf), James Bergstra et al., JMLR, 2012
 - [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533v2), Yoshua Bengio, 2012
+
