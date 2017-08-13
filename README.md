@@ -15,6 +15,7 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 
 Video Lectures
 
+- [인공지능 및 기계학습 개론](http://seslab.kaist.ac.kr/xe2/page_GBex27), 문일철
 - [Convolutional Neural Networks for Visual Recognition (Stanford)](http://cs231n.stanford.edu/), Fei-Fei Li
  et al., 2017 [[Video]](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [[Note]](http://cs231n.github.io/)
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd), Martin Görner, 2017
@@ -35,6 +36,8 @@ Books
 - [TensorFlow For Machine Intelligence: A hands-on introduction to learning algorithms](https://www.amazon.com/TensorFlow-Machine-Intelligence-hands-introduction-ebook/dp/B01IZ43JV4), Sam Abrahams et al., Bleeding Edge Press, 2016
 - [Deep Learning](http://www.deeplearningbook.org/), Ian Goodfellow et al., MIT Press, 2016
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Michael Nielsen, Determination Press, 2015
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html), Gareth James et al., Springer, 2013
+- [The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/), Trevor Hastie et al., Springer, 2009 [[PDF]](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 
 Related Conferences & Workshops
 
@@ -63,6 +66,7 @@ Reference
 
 Reviews & Tutorials
 
+- [The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347), Avinash Hindupur, 2017
 - [Generative Adversarial Nets in TensorFlow](http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/), Agustinus Kristiadi, Personal Blog, 2016
 - [Collection of Generative Models (GAN & VAE) in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models), Agustinus Kristiadi, Github, 2016 
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks), Soumith Chintala et al.
@@ -101,6 +105,10 @@ Papers
 
 Reviews & Tutorials
 
+- [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html), Jaejun Yoo, Personal Blog, 2017
+- [Adversarial Autoencoders (with Pytorch)](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/), Felipe, Personal Blog, 2017
+- [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908), Carl Doersch, 2016 
+
 Papers
 
 - [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644), Alireza Makhzani et al., 2015 #AAE
@@ -127,6 +135,7 @@ Papers
 
 Reviews & Tutorials
 
+- [TensorFlow: A proposal of good practices for files, folders and models architecture](https://blog.metaflow.fr/tensorflow-a-proposal-of-good-practices-for-files-folders-and-models-architecture-f23171501ae3), Morgan, 2017
 - [TensorFlow models](https://github.com/tensorflow/models)
 - [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800), Haohan Wang et al., arXiv, 2017
 - [Structuring Your TensorFlow Models](https://danijar.com/structuring-your-tensorflow-models/), Danijar Hafner, 2016
