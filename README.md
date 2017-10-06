@@ -62,13 +62,24 @@ Reference
 - [awesome-rnn](https://github.com/kjw0612/awesome-rnn)
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
+## Deep Learning
+
+- [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800), Haohan Wang et al., arXiv, 2017
+- [UFLDL: Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/tutorial/), Andrew Ng et al., 2013 [[Wiki]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+
+## TensorFlow
+
+- [TensorFlow: A proposal of good practices for files, folders and models architecture](https://blog.metaflow.fr/tensorflow-a-proposal-of-good-practices-for-files-folders-and-models-architecture-f23171501ae3), Morgan, 2017
+- [TensorFlow models](https://github.com/tensorflow/models)
+- [Structuring Your TensorFlow Models](https://danijar.com/structuring-your-tensorflow-models/), Danijar Hafner, 2016
+
 ## Generative Adversarial Network
 
 Reviews & Tutorials
 
 - [The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347), Avinash Hindupur, 2017
 - [Generative Adversarial Nets in TensorFlow](http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/), Agustinus Kristiadi, Personal Blog, 2016
-- [Collection of Generative Models (GAN & VAE) in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models), Agustinus Kristiadi, Github, 2016 
+- [Collection of Generative Models (GAN & VAE) in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models), Agustinus Kristiadi, Github, 2016
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks), Soumith Chintala et al.
 - [초짜 대학원생 입장에서 이해하는 GAN 시리즈](http://jaejunyoo.blogspot.com/search/label/GAN), Jaejun Yoo, Personal Blog, 2017
 - [Generative Adversarial Networks](https://nips.cc/Conferences/2016/Schedule?showEvent=6202), Ian Goodfellow, NIPS 2016 [[Slide]](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf) [[Paper]](http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf)
@@ -76,6 +87,7 @@ Reviews & Tutorials
 Papers
 
 - [DualGAN: Unsupervised Dual Learning for Image-to-Image Translation](https://arxiv.org/abs/1704.02510), Zili Yi et al., 2017
+- [On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](https://arxiv.org/abs/1704.03971), Sitao Xiang et al., 2017
 - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717), David Berthelot et al., 2017
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875), Martin Arjovsky et al., 2017 #WGAN
 - [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163), Luke Metz et al., 2016 [[Code]](https://github.com/poolio/unrolled_gan)
@@ -100,6 +112,7 @@ Papers
 - [Adam: a Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980), Diederik P. Kingma et al., ICLR 2015
 - [ADADELTA: AN ADAPTIVE LEARNING RATE METHOD](http://www.matthewzeiler.com/pubs/googleTR2012/googleTR2012.pdf), Matthew D. Zeiler, arXiv, 2012
 - [Neural Networks for Machine Learning: Lecture 6a. Overview of mini-batch gradient descent](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf), Geofre Hinton, Coursera, 2012 #RMSProp
+- [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf), James Bergstra et al., JMLR, 2012
 
 ## Autoencoder
 
@@ -130,24 +143,26 @@ Papers
 ## Regularization & Normalization
 
 - [A Theoretically Grounded Application of Dropout in Recurrent Neural Networks](https://arxiv.org/abs/1512.05287), Yarin Gal et al., NIPS, 2016
+- [Batch Normalization 설명 및 구현](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/), Beomsu Kim, 2016
 - [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1502.03167), Sergey Ioffe et al., ICML, 2015
+
+## Recommendation System
+
+- [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533v2), Yoshua Bengio, 2012
+
+## Music
+
+- [Performance RNN: Generating Music with Expressive Timing and Dynamics](https://magenta.tensorflow.org/performance-rnn), 2017
+
+## Game
+
+- [AlphaGo Pipeline 헤집기](https://shuuki4.wordpress.com/2016/03/11/alphago-alphago-pipeline-%ED%97%A4%EC%A7%91%EA%B8%B0/), Beomsu Kim, 2016
+
+## Reinforcement Learning
+
+- [Reinforcement Learning Summary](https://norman3.github.io/rl/), Kiho Hong, Personal Page, 2016
 
 ## Uncategorized
 
-Reviews & Tutorials
-
-- [TensorFlow: A proposal of good practices for files, folders and models architecture](https://blog.metaflow.fr/tensorflow-a-proposal-of-good-practices-for-files-folders-and-models-architecture-f23171501ae3), Morgan, 2017
-- [TensorFlow models](https://github.com/tensorflow/models)
-- [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800), Haohan Wang et al., arXiv, 2017
-- [Structuring Your TensorFlow Models](https://danijar.com/structuring-your-tensorflow-models/), Danijar Hafner, 2016
-- [AlphaGo Pipeline 헤집기](https://shuuki4.wordpress.com/2016/03/11/alphago-alphago-pipeline-%ED%97%A4%EC%A7%91%EA%B8%B0/), Beomsu Kim, 2016
-- [Reinforcement Learning Summary](https://norman3.github.io/rl/), Kiho Hong, Personal Page, 2016
-- [Batch Normalization 설명 및 구현](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/), Beomsu Kim, 2016
 - [Machine Learning 스터디](http://sanghyukchun.github.io/blog/categories/machine-learning-study/), Sanghyuk Chun et al., Perosnal Blog, 2014
-- [UFLDL: Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/tutorial/), Andrew Ng et al., 2013 [[Wiki]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
-
-Papers
-
-- [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf), James Bergstra et al., JMLR, 2012
-- [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533v2), Yoshua Bengio, 2012
 
