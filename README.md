@@ -19,7 +19,7 @@ Video Lectures
  et al., 2017 [[Video]](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [[Note]](http://cs231n.github.io/)
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd), Martin Görner, 2017
 - [Tensorflow for Deep Learning Research (Stanford)](http://web.stanford.edu/class/cs20si/index.html), Chip Huyen, 2017
-- - [인공지능 및 기계학습 개론](http://seslab.kaist.ac.kr/xe2/page_GBex27), 문일철, 2016
+- [인공지능 및 기계학습 개론](http://seslab.kaist.ac.kr/xe2/page_GBex27), 문일철, 2016
 - [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/), 2016
 - [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730), Vincent Vanhoucke, 2016
 - [모두를 위한 머신러닝 / 딥러닝](http://hunkim.github.io/ml/), 김성훈, 2016
