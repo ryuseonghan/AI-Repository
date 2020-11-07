@@ -67,6 +67,11 @@ Reference
 - [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800), Haohan Wang et al., arXiv, 2017
 - [UFLDL: Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/tutorial/), Andrew Ng et al., 2013 [[Wiki]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
+## Data Science
+
+- [Team Data Science Process Documentation by Microsoft Azure](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/)
+- [The Data Science Process - A Visual Guide to Standard Procedures in Data Science](https://towardsdatascience.com/the-data-science-process-a19eb7ebc41b)
+
 ## TensorFlow
 
 - [TensorFlow: A proposal of good practices for files, folders and models architecture](https://blog.metaflow.fr/tensorflow-a-proposal-of-good-practices-for-files-folders-and-models-architecture-f23171501ae3), Morgan, 2017
