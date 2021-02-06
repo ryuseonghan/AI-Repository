@@ -167,6 +167,10 @@ Papers
 
 - [Reinforcement Learning Summary](https://norman3.github.io/rl/), Kiho Hong, Personal Page, 2016
 
+## Model Compression
+
+- [BiQGEMM: Matrix Multiplication with Lookup Table For Binary-Coding-based Quantized DNNs](https://arxiv.org/pdf/2005.09904.pdf) - [Korean Introduction](https://www.facebook.com/groups/TensorFlowKR/permalink/1237587826582273/), Jeon et al, Supercomputing, 2020
+
 ## Uncategorized
 
 - [Machine Learning 스터디](http://sanghyukchun.github.io/blog/categories/machine-learning-study/), Sanghyuk Chun et al., Perosnal Blog, 2014
